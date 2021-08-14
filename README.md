@@ -1,5 +1,6 @@
 # epai-s14 Context Manager
- 
+
+### [Test Jupyter notebook](test.ipynb) contains usage of functions
 ## FUNCTIONS
     find_largest_car_maker()
         Function to find the largest car maker for each gender
@@ -53,4 +54,3 @@
     UPDATE_STATUS_FILE_NAME = 'assignment/update_status.csv'
     VEHICLES_FILE_NAME = 'assignment/vehicles.csv'
 
-## [Test Jupyter notebook](test.ipynb) contains usage of functions
