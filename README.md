@@ -52,3 +52,5 @@
     PERSONAL_INFO_FILE_NAME = 'assignment/personal_info.csv'
     UPDATE_STATUS_FILE_NAME = 'assignment/update_status.csv'
     VEHICLES_FILE_NAME = 'assignment/vehicles.csv'
+
+## [Test Jupyter notebook](test.ipynb) contains usage of functions
